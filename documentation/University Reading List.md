@@ -17,13 +17,6 @@ The titles and authors listed on the reading lists were manually entered into a 
 <li>If both a general work and a specific title from that work are given, both are recorded separately. For example: “Heine: Reisebilder (at least: Harzreise).” A value of 1 is recorded for both "Reisebilder" and "Harzreise".</li>
 </ul>
 
-
-## Measurements and Normalization
-Maße kommen in drei Varianten: raw, normalisiert, z-normalisiert.
-
-Seitenanzahl (z.B.)
-Anzahl an Seiten, auf denen Autor:in genannt wird anhand Register... normalisiert: Geteilt durch Anzahl der Seiten insgeasmt z-normalisiert. ...
-
 ## Description of the Secondary Indicators
 ### University Reading List Aachen 2017/18
 Literaturgeschichte, die weit verbreitet ist, in der Lehre verwendet wird usw. Spezifika dieses Indikators z.B., warum diese Auflage verwendet, mögliche spezifische Probleme/Confounder....
