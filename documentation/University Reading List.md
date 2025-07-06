@@ -2,6 +2,14 @@
 ## Description
 A university reading list is a compilation of literary works assembled by German studies departments or individual instructors. The aim is to have students read these texts over the course of their academic training. These lists serve as didactic tools, providing orientation in literary history. The present analysis is based on 42 reading lists from German studies departments in German-speaking countries: Germany (34), Austria (5), Switzerland (2), and Luxembourg (1). At the time of data collection (2021 to 2023), the reading lists were publicly accessible online. According to information provided either on the lists themselves or on the associated websites, the lists were created between 2003/04 and 2023; however, the year of origin could be determined for only 17 of the lists.
 
+The file "bdsl.csv" contains the following columns:
+<ul>
+<li>GND: GND identifier for the respective author.</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
 When using the reading list data, cite the following: Jana Eckardt/Frederik Eicks/Sören Kleist/Julia Wagner/Simone Winko (2025). Leselisten als Textsorte und universitäre Kanonisierungsinstanz. Daten und Code [Data set]. IASL/Georg-August-Universität Göttingen. https://doi.org/10.5281/zenodo.15102618.
 
 
