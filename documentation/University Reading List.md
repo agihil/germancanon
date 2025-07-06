@@ -5,9 +5,10 @@ A university reading list is a compilation of literary works assembled by German
 Es gibt eine Datei für jede der 42 Leselisten. Beispiel: The file "unilist_aachen_201718.csv" contains the following columns:
 <ul>
 <li>GND: GND identifier for the respective author.</li>
-<li>UniLeselisten_Autor: </li>
-<li>A colum for each university reading list</li>
-<li></li>
+<li>author: Author names are given in the format Last Name, First Name. This does not necessarily have to match the spelling used in the GND. The spelling of authors’ names and titles was adopted directly from the reading lists. In cases of inconsistent spelling across a list, the version used in the first entry was retained.</li>
+<li>title: Titles listed on the reading lists. These are generally literary texts. Occasionally, non-literary texts, generic genre designations such as “drama,” or titles of anthologies are also included. For further information, see below.</li>
+<li>year: The year indicated generally refers to the year of publication of the title or, in the case of plays, the year of their premiere. In some instances, the year of composition of the play was recorded instead.</li>
+<li>prob_to_read: For each title, the probability that a student will have read the text if they follow the reading list’s guidelines is indicated. The values range from 0 to 1. A value of 0 means the title is not mentioned on the list. A value of 1 means the text is listed as a required reading, not part of a selection. Values between 0 and 1 indicate that the title is listed as part of a selection. For further information, see below.</li> 
 </ul>
 
 When using the reading list data, cite the following: Jana Eckardt/Frederik Eicks/Sören Kleist/Julia Wagner/Simone Winko (2025). Leselisten als Textsorte und universitäre Kanonisierungsinstanz. Daten und Code [Data set]. IASL/Georg-August-Universität Göttingen. https://doi.org/10.5281/zenodo.15102618.
@@ -18,8 +19,6 @@ The titles and authors listed on the reading lists were manually entered into a 
 <ul>
 <li>Not all titles appearing on a given reading list were included. The following categories were not recorded consistently: literature published before 1600, non-German-language literature, and works from the field of literary studies (e.g., literary histories, encyclopedias, etc.).</li>
 <li>Anthologies were marked with a ‘$’ at the beginning of the entry. Editors are listed in the author column and marked with '(Hg.)'.</li>
-<li>The spelling of authors’ names and titles was adopted directly from the reading lists. In cases of inconsistent spelling across a list, the version used in the first entry was retained.</li>
-<li>The year indicated is generally the year of publication or, in the case of plays, the year of the premiere. In some cases, the year of composition was entered for plays instead.</li>
 <li>There are instances in which only the author’s name and a literary genre are listed (e.g., Karoline von Günderrode: Lyrik). In such cases, the genre is recorded as the title, and the year is typically the average of the author’s birth and death years.</li>
 <li>Some of the reading lists offer students a choice of titles either at specific points or as a guiding principle for the entire list. For example, students may be asked to select between two Brecht works, choose 5 out of 20 listed novels, or read 50 of the 100 titles provided. This optionality is reflected in the data. For each title, the probability that a student will have read the text if they follow the reading list’s guidelines is indicated (e.g., 0.5, 0.25, 0.5). When interpreting the data, it should be taken into account that such choices can only be represented when an exact number is specified. Although some reading lists indicate that students are not required to read all texts, they do not quantify this. This cannot be reflected in the data.</li>
 <li>If both a general work and a specific title from that work are given, both are recorded separately. For example: “Heine: Reisebilder (at least: Harzreise).” A value of 1 is recorded for both "Reisebilder" and "Harzreise".</li>
@@ -27,10 +26,9 @@ The titles and authors listed on the reading lists were manually entered into a 
 
 ## Description of the Secondary Indicators
 ### University Reading List Aachen 2017/18
-Literaturgeschichte, die weit verbreitet ist, in der Lehre verwendet wird usw. Spezifika dieses Indikators z.B., warum diese Auflage verwendet, mögliche spezifische Probleme/Confounder....
+The University of Aachen has two reading lists. One list is for the teacher education program in German as a teaching subject, and the other reading list is for literary and linguistic studies. This reading list is intended for literary and linguistic studies. 
 
 ### University Reading List Augusburg 2020
-Spezifika dieses Indikators Anspruch auf Kanonizität im Klappentext formuliert.....
 
 ### University Reading List Bochum
 
@@ -69,6 +67,7 @@ Spezifika dieses Indikators Anspruch auf Kanonizität im Klappentext formuliert.
 ### University Reading List Köln
 
 ### University Reading List LA Aachen 2018
+The University of Aachen has two reading lists. One list is for the teacher education program in German as a teaching subject, and the other reading list is for literary and linguistic studies. This reading list is intended for the teacher education program.
 
 ### University Reading List Lausanne
 
