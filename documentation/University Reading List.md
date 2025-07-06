@@ -9,6 +9,12 @@ When using the reading list data, cite the following: Jana Eckardt/Frederik Eick
 The titles and authors listed on the reading lists were manually entered into a table. The following guidelines were observed during data entry:
 <ul>
 <li>Not all titles appearing on a given reading list were included. The following categories were not recorded consistently: literature published before 1600, non-German-language literature, and works from the field of literary studies (e.g., literary histories, encyclopedias, etc.).</li>
+<li>Anthologies were marked with a ‘$’ at the beginning of the entry. Editors are listed in the author column and marked with '(Hg.)'.</li>
+<li>The spelling of authors’ names and titles was adopted directly from the reading lists. In cases of inconsistent spelling across a list, the version used in the first entry was retained.</li>
+<li>The year indicated is generally the year of publication or, in the case of plays, the year of the premiere. In some cases, the year of composition was entered for plays instead.</li>
+<li>There are instances in which only the author’s name and a literary genre are listed (e.g., Karoline von Günderrode: Lyrik). In such cases, the genre is recorded as the title, and the year is typically the average of the author’s birth and death years.</li>
+<li>Some of the reading lists offer students a choice of titles either at specific points or as a guiding principle for the entire list. For example, students may be asked to select between two Brecht works, choose 5 out of 20 listed novels, or read 50 of the 100 titles provided. This optionality is reflected in the data. For each title, the probability that a student will have read the text if they follow the reading list’s guidelines is indicated (e.g., 0.5, 0.25, 0.5). When interpreting the data, it should be taken into account that such choices can only be represented when an exact number is specified. Although some reading lists indicate that students are not required to read all texts, they do not quantify this. This cannot be reflected in the data.</li>
+<li>If both a general work and a specific title from that work are given, both are recorded separately. For example: “Heine: Reisebilder (at least: Harzreise).” A value of 1 is recorded for both "Reisebilder" and "Harzreise".</li>
 </ul>
 
 
