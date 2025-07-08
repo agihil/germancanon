@@ -7,6 +7,8 @@ Subject bibliographies compile scholarly literature on a given topic, usually wi
 ## bdsl
 The *Bibliographie der deutschen Sprach- und Literaturwissenschaft* (BDSL) is one of the most important subject bibliographies in German Studies. Its online version (https://www.bdsl-online.de/) provides comprehensive documentation of relevant scholarship since 1985, including approximately 545,000 titles from the period 1985 to 2004 alone. The bibliography offers various search options, including "Freitext", which retrieves titles containing the search phrase anywhere in the metadata, and "Behandelte Person", which returns titles that have been explicitly tagged as engaging with the searched person.
 
+Data collection from the BDSL took place in December 2024.
+
 The file "bdsl.csv" contains the following columns:
 
 - *GND*: GND identifier for the respective author.
