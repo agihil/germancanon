@@ -16,5 +16,5 @@ When using the exams data, cite the following: Stuck, Elisabeth: Kanon und Liter
 
 
 ## Data Collection
-The data were presumably collected manually by Elisabeth Stuck. We have only transferred the results into a table here. There were 399 author citations; Stuck named a total of 109 different authors, while we list 110 authors because we separated the Brothers Grimm. It should also be noted that Stuck generally lists only the authors’ surnames. Therefore, when linking to the GND, we had to interpret which author was most likely meant. In most cases the identification was straightforward. Two authors could not be clearly identified: “Bredel, B.” and “Vogt, H.”.
+The data were presumably collected manually by Elisabeth Stuck. We have only transferred the results into a table here. There were 399 author citations; Stuck named a total of 109 different authors, while we list 110 authors because we separated the Brothers Grimm. It should also be noted that Stuck generally lists only the authors’ surnames. Therefore, when linking to the GND, we had to interpret which author was most likely meant. In most cases the identification was straightforward. Two authors could not be clearly identified: “Bredel, B.” and “Vogt, H.”. One author ("Hebel") was listed twice by Stuck.
 
