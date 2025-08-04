@@ -1,7 +1,7 @@
 GND,author,title,year,prob_to_read
 171990870,"$Brode, Hanspeter (Hg.)",Deutsche Lyrik. Eine Anthologie.,1990.0,0.1265822785
 115851755,"$Conrady, Karl Otto (Hg.)",Der Neue Conrady,2000.0,0.1265822785
-106773801 + http://d-nb.info/gnd/120072106,"$Hay, Gerhard / v. Steinsdorff, Sibylle (Hg.)",Deutsche Lyrik vom Barock bis zur Gegenwart. Hg. von Gerhard Hay und Sibylle von Steinsdorff. München 1992.,,0.1265822785
+106773801 + 120072106,"$Hay, Gerhard / v. Steinsdorff, Sibylle (Hg.)",Deutsche Lyrik vom Barock bis zur Gegenwart. Hg. von Gerhard Hay und Sibylle von Steinsdorff. München 1992.,,0.1265822785
 116171650,"$Killy, Walther (Hg.)",Deutsche Lyrik von den Anfängen bis zur Gegenwart. ,2001.0,0.1265822785
 118945505,"$Windfuhr, Manfred (Hg.)",Christian Hofmann von Hofmannswaldau. Gedichte,1964.0,0.1265822785
 118500775,"Adorno, Theodor W.",Minima Moralia. Reflexionen aus dem beschädigten Leben,1951.0,0.1265822785
@@ -439,7 +439,7 @@ GND,author,title,year,prob_to_read
 118628976,Walther von der Vogelweide,Gedichte (Fischer TB 6052),,0.1265822785
 118629867,"Wedekind, Frank",Frühlings Erwachen,1891.0,0.1265822785
 118630539,"Weiss, Peter",Die Ermittlung,1964.0,0.1265822785
-118630806 + http://d-nb.info/gnd/118806246,"Wellek, René/Warren, Austin",Theorie der Literatur,1949.0,0.1265822785
+118630806 + 118806246,"Wellek, René/Warren, Austin",Theorie der Literatur,1949.0,0.1265822785
 120295245,"Werner, Markus",Am Hang,2004.0,0.1265822785
 11904157X,"Widmer, Urs",Im Kongo ,1996.0,0.1265822785
 118632477,"Wieland, Christoph Martin",Geschichte des Agathon,1766.0,0.1265822785
