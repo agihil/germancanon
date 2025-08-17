@@ -1,9 +1,12 @@
 
 # Literary Histories
+In this context, 'literary histories' are understood as monographic studies of German-language literature, constituting a textual form that is both literary-critical and historiographical. They are often organized according to literary periods or time periods.
 
 ## Description
 
 ## Beutin et al. (2013)
+
+The *Deutsche Literaturgeschichte* is a German-language literary history written by Wolfgang Beutin, Matthias Beilein, Klaus Ehlert, Wolfgang Emmerich, Christine Kanz, Bernd Lutz, Volker Meid, Michael Opitz, Carola Opitz-Wiemers, Ralf Schnell, Peter Stein and Inge Stephan. It was first published in 1979 and comprises a total of 781 pages. This single-volume work covers literature from the Medieval Period to Contemporary Literature.
 
 We use the eighth edition: Beutin, Wolfgang et al., ed. *Deutsche Literaturgeschichte. Von den Anfängen bis zur Gegenwart*. 8th ed., updated and expanded, J.B. Metzler, 2013.
 
@@ -21,6 +24,8 @@ The file "litges_beutin.csv" contains the following columns:
 
 
 ## Brenner (2011)
+
+The *Neue deutsche Literaturgeschichte* is a German-language literary history written by Peter J. Brenner. It was first published in 1996 and comprises a total of 439 pages. It is a single-volume work covering literature from the Early Modern period to the Berlin Republic.
 
 We use the third edition: Brenner, Peter J., ed. *Neue deutsche Literaturgeschichte. Vom "Ackermann" zu Günter Grass*. 3rd ed., updated and expanded, De Gruyter, 2011
 
