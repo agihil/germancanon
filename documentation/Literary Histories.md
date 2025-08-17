@@ -1,8 +1,9 @@
 
 # Literary Histories
-In this context, 'literary histories' are understood as monographic studies of German-language literature, constituting a textual form that is both literary-critical and historiographical. They are often organized according to literary periods or time periods.
 
 ## Description
+
+In this context, 'literary histories' are understood as monographic studies of German-language literature, constituting a textual form that is both literary-critical and historiographical. They are often organized according to literary periods or time periods.
 
 ## Beutin et al. (2013)
 
