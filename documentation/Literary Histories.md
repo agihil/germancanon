@@ -30,6 +30,9 @@ The file "litges_brenner.csv" contains the following columns:
 - *Eintrag*: Name of the author as listed in the index of Brenner (2011).
 - *Seiten*: Pages as listed in the index of Brenner (2011).
 - *Anzahl_Seiten_neu*: Number of pages. This column contains the pages that were manually corrected, based on the information in the "Seiten" column. Corrections were made for errors resulting from entries with "f." in the index and from page-range indications (e.g., 148–153).
+  
+
+## Data Collection
 
 The indexes of the literary histories were digitized using text recognition. Author names and the page numbers listed there were transferred into separate columns. 
 
