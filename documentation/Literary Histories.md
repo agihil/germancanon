@@ -11,6 +11,9 @@ The *Deutsche Literaturgeschichte* is a German-language literary history written
 
 We use the eighth edition: Beutin, Wolfgang et al., ed. *Deutsche Literaturgeschichte. Von den Anfängen bis zur Gegenwart*. 8th ed., updated and expanded, J.B. Metzler, 2013.
 
+The literary history by Beutin et al. exists in nine editions (1st edition 1979, 2nd edition 1984, 3rd edition 1989, 4th edition 1992, 5th edition 1994, 6th edition 2001, 7th edition 2008, 8th edition 2013, 9th edition 2019). Up to the 5th edition, fundamental revisions were carried out; in the 6th edition, substantial conceptual innovations and shifts of emphasis were also introduced, as well as the addition of two new chapters („Die literarische Moderne von 1890 bis 1920“ and „Tendenzen der deutschsprachigen Gegenwartsliteratur seit 1989“); but since the 7th edition, only minor corrections, revisions, and additions have apparently been made.
+
+
 The file "litges_beutin.csv" contains the following columns:
 
 - *ID*: Not relevant.
@@ -28,7 +31,9 @@ The file "litges_beutin.csv" contains the following columns:
 
 The *Neue deutsche Literaturgeschichte* is a German-language literary history written by Peter J. Brenner. It was first published in 1996 and comprises a total of 439 pages. It is a single-volume work covering literature from the Early Modern period to the Berlin Republic.
 
-We use the third edition: Brenner, Peter J., ed. *Neue deutsche Literaturgeschichte. Vom "Ackermann" zu Günter Grass*. 3rd ed., updated and expanded, De Gruyter, 2011
+We use the third edition: Brenner, Peter J., ed. *Neue deutsche Literaturgeschichte. Vom "Ackermann" zu Günter Grass*. 3rd ed., updated and expanded, De Gruyter, 2011.
+
+The literary history by Brenner exists in three editions (1st edition 1996, 2nd edition 2004, 3rd edition 2011). It is difficult to assess how fundamental the respective revisions are: for the 2nd edition, the literary history was „durchgesehen und bis zur Gegenwart weitergeführt“ (Brenner 2004), and for the 3rd edition, among other things, „Abschlusskapitel neu geschrieben und die literarhistorische Darstellung der letzten 40 Jahre insgesamt neu organisiert.“ In addition, the text was „durchgehend ergänzt und erweitert; dadurch wurde häufiger eine Neuorganisation der Darstellung erforderlich.“
 
 The file "litges_brenner.csv" contains the following columns:
 
