@@ -28,7 +28,7 @@ The titles and authors listed on the reading lists were manually entered into a 
 ### University Reading List Aachen 2017/18
 The University of Aachen has two reading lists. One list is for the teacher education program in German as a teaching subject, and the other reading list is for literary and linguistic studies. This reading list is intended for literary and linguistic studies. 
 
-### University Reading List Augusburg 2020
+### University Reading List Augsburg 2020
 
 ### University Reading List Bochum
 
