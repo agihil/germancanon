@@ -50,3 +50,5 @@ The indexes of the literary histories were digitized using text recognition. Aut
 The main challenges in the digitization process involve page references using "f." and page ranges. In many cases these were digitized correctly, but there are also instances where "f." was not recognized. It can therefore be assumed that, for a significant number of authors, the pages on which they are mentioned may appear one to two pages higher than in the original. 
 
 In addition, the indexes themselves sometimes contain errors, that is, pages on which authors are mentioned are not included in the index. Obvious errors were corrected by cross-checking with the literary histories (for example, in Beutin et al. 2013, the entries for Peter Huchel, Wilhelm Lehmann, and Bertolt Brecht were corrected).
+
+Especially for Beutin et al. (2013), whose structure is less author-centered than that of Brenner (2011), it would be more precise to measure the extent of discussion devoted to individual authors in words or characters. It is not uncommon for authors to be mentioned only in passing, rather than being discussed over an entire page or paragraph.
