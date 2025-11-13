@@ -21,15 +21,13 @@ The file `canonicity_scores.xlsx` lists more than 5,000 authors of German-langua
 ## 📂 Repository Structure
 
 ### `raw_data/`
-Contains the original datasets used to reconstruct canonicity, e.g.,  
-mentions of authors in university reading lists, literary histories, etc.  
-All data is reusable. Please cite the corresponding sources (see [`documentation/`](documentation)).
+Contains the original datasets used to reconstruct canonicity, e.g., mentions of authors in university reading lists, literary histories, etc. All data is reusable. Please cite the corresponding sources (see `documentation/`).
 
 ### `data/`
 Includes `data.csv`, which aggregates and harmonizes the individual files from `raw_data/`.
 
 ### `documentation/`
-Provides detailed information on the data in [`raw_data/`](raw_data), e.g., on data collection methods, definitions and meanings of columns, and bibliographic and licensing information for all data sources.
+Provides detailed information on the data in `raw_data/`, e.g., on data collection methods, definitions and meanings of columns, and bibliographic and licensing information for all data sources.
 
 ### `notebooks/`
 Contains Jupyter notebooks with Python code for merging and cleaning the raw data and computing and analyzing canonicity scores.
