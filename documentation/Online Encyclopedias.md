@@ -1,7 +1,7 @@
 # Online Encyclopedias
 ## Description
 
-We consider online encyclopedias—in this case, _Wikipedia_—as another potential indicator of canonicity.
+We consider online encyclopedias – in this case, _Wikipedia_ – as another potential indicator of canonicity.
 
 Our dataset includes Wikipedia data for all authors mentioned in at least one of the other indicators (e.g., university reading lists, school exams). Wikipedia entries were identified via the authors’ GND identifiers. Data collection took place in the summer of 2025.
 
