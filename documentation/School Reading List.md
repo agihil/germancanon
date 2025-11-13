@@ -3,10 +3,10 @@
 
 
 
-The file "staatsexamen.csv" contains the following columns:
+The file "schulleselisten.csv" contains the following columns:
 <ul>
 <li>GND: GND identifier for the respective author.</li>
-<li>author: The authors’ names consist primarily of surnames only and have been adopted directly in the original spelling used by Elisabeth Stuck (2004). This does not necessarily have to match the spelling used in the GND.</li>
+<li>SchulLeselisten_Autor: The authors’ names consist primarily of surnames only and have been adopted directly in the original spelling used by Elisabeth Stuck (2004). This does not necessarily have to match the spelling used in the GND.</li>
 <li>count_exams: Frequency of occurrence in exam questions.</li> 
 </ul>
 
