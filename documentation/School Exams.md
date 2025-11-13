@@ -3,7 +3,7 @@
 ## Description
 German federal states publish binding guidelines specifying which literary texts are to be studied in certain school years and/or included in final examinations.
 
-Our study draws on data collected by Dawidowski and Maas (2018), which cover the required reading for _Gymnasium_ and _Abitur_ (final examinations) in twelve German states from 2005 to 2018. The dataset does not differentiate between individual states but instead reports the total number of mentions aggregated across all states.
+Our study draws on data collected by Dawidowski and Maas (2018), which cover the required reading for the senior classes of the _Gymnasium_ and the _Abitur_ (final examinations) in twelve German states from 2005 to 2018. The dataset does not differentiate between individual states but instead reports the total number of mentions aggregated across all states.
 
 Each row in the file `abi.csv` represents one author. The file contains the following columns:
 
