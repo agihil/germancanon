@@ -1,24 +1,43 @@
 # germancanon
 
-Ordner mit allen in der Publikation xy verwendeten Daten. 
-Zweck: Ergebnisse dort transparent zu machen, Nachnutzung für eigene Recherchen zu Kanonizität
+Repository containing data and code for the publication  
+_“1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur”_
 
-## Schnelleinstieg
-In der Tabelle "authors_reduced.xlsx" Liste aller detektierten Autoren und deren "Kanon-Gesamt-Score", sortiert von oben nach unten nach diesem Gesamtscore. 
-(evtl.) Interaktives Notebook unter diesem Link zur Visualisierung dieser Ergebnisse: link
-Evtl. Beispiel eines Autors.
+---
 
+## 🚀 Quick Access
 
-## Struktur der Datenbank
-Grundsätzliches: Unterscheidung primärer und sekundärer Indikatoren...
+The file `canonicity_scores.xlsx` lists more than 5,000 authors of German-language literature (from roughly 1600 onward) along with their corresponding canonicity scores.
 
-### data
-### documentation
-detaillierte Beschreibung zu allen primären Indikatoren, blabla
+- `GND` – GND identifier of the author  
+- `author` – author name according to the GND
+- `canonicity_score` – Score ranging from 1 to 1000, where higher values indicate a more canonical author  
+- `canonicity_rank` – Rank of the author, where lower numbers correspond to higher canonical status  
 
-### raw_data
+*Example*: Johann Wolfgang von Goethe (`GND: 12345`) has a canonicity score of 1000 and holds rank 1, making him the most canonical author of newer German-language literature.
 
+---
 
-## Änderungsprotokoll
-(falls möglicherweise nach der Veröffentlichung weitere Indikatoren dazukommen oder so.)
+## 📂 Repository Structure
 
+### `raw_data/`
+Contains the original datasets used to reconstruct canonicity, e.g.,  
+mentions of authors in university reading lists, literary histories, etc.  
+All data is reusable. Please cite the corresponding sources (see [`documentation/`](documentation)).
+
+### `data/`
+Includes `data.csv`, which aggregates and harmonizes the individual files from `raw_data/`.
+
+### `documentation/`
+Provides detailed information on the data in [`raw_data/`](raw_data), e.g., on data collection methods, definitions and meanings of columns, and bibliographic and licensing information for all data sources.
+
+### `notebooks/`
+Contains Jupyter notebooks with Python code for merging and cleaning the raw data and computing and analyzing canonicity scores.
+
+---
+
+## 🧾 Changelog
+
+*(Nothing yet — first version)*
+
+---
