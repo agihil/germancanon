@@ -1,4 +1,4 @@
-# School Reading List
+# School Reading Lists
 ## Description
 School reading lists are official literature lists for German language teaching in secondary schools in all federal states of the Federal Republic of Germany [„offizielle[] Literaturlisten für den gymnasialen Deutschunterricht aller Bundesländer der Bundesrepublik Deutschland“] (Spitzer, Wortmann, and Wolfer, 2023).
 
