@@ -12,7 +12,9 @@ The file `canonicity_scores.xlsx` lists more than 5,000 authors of German-langua
 - `GND` – GND identifier of the author  
 - `author` – author name according to the GND
 - `canonicity_score` – Score ranging from 1 to 1000, where higher values indicate a more canonical author  
-- `canonicity_rank` – Rank of the author, where lower numbers correspond to higher canonical status  
+- `canonicity_rank` – Rank of the author, where lower numbers correspond to higher canonical status
+
+<img width="686" height="274" alt="Bildschirmfoto 2025-11-13 um 17 31 38" src="https://github.com/user-attachments/assets/a7d96aa5-cc90-4ba6-afe9-1b45973cf809" />
 
 *Example*: Johann Wolfgang von Goethe (`GND: 118540238`) has a canonicity score of 1000 and holds rank 1, making him the most canonical author of newer German-language literature.
 
