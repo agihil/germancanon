@@ -7,7 +7,7 @@ _“1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neuer
 
 ## 🚀 Quick Access
 
-The file `canonicity_scores.xlsx` lists more than 5,000 authors of German-language literature (from roughly 1600 onward) along with their corresponding canonicity scores.
+The file `canonicity_scores.xlsx` in the folder `data/` lists more than 5,000 authors of German-language literature (from roughly 1600 onward) along with their corresponding canonicity scores.
 
 - `GND` – GND identifier of the author  
 - `author` – author name according to the GND
