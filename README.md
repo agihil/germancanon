@@ -22,6 +22,8 @@ The file `canonicity_scores.xlsx` in the folder `data/` lists more than 5,000 au
 
 To download the file, open `data/`, select `canonicity_scores.xlsx`, click the three dots in the top right, and choose `Download`.
 
+![download_scores](https://github.com/user-attachments/assets/92e6501c-0414-412a-97a0-2bdac3a407dd)
+
 ---
 
 ## 📂 Repository Structure
