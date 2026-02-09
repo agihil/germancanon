@@ -1,7 +1,7 @@
 # germancanon
 
 Repository containing data and code for the publication  
-* Eckardt, Jana, Agnes Hilger, and Merten Kröncke. “1000 Punkte für Goethe: Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur.” Zeitschrift für Germanistik, vol. 37:1, 2027 [forthcoming].*
+*Eckardt, Jana, Agnes Hilger, and Merten Kröncke. “1000 Punkte für Goethe: Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur.” Zeitschrift für Germanistik, vol. 37:1, 2027 [forthcoming].*
 
 ---
 
