@@ -40,7 +40,7 @@ Contains the original datasets used to reconstruct canonicity, e.g., mentions of
 
 ## 🧾 Changelog
 
-*(Nothing yet — first version)*
+- 09.02.2026: Upload of the now folder "poster_submission_ccls26" with all additional data and code specific for the poster submission at CCLS206
 
 ---
 
