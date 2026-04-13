@@ -44,6 +44,8 @@ Contains the original datasets used to reconstruct canonicity, e.g., mentions of
 ## 🧾 Changelog
 
 - 09.02.2026: Upload of the now folder "poster_submission_ccls26" with all additional data and code specific for the poster submission at CCLS2026
+- 13.04.2026: Upload of additional data (gnd_all.csv) and notebooks (gender.ipynb, get_gnd_data.ipynb) for the publication "Canonicity, Gender, and Time Period. An Empirical Reconstruction of the German-language Academic Canon" forthcoming at DH2026.
+
 
 ---
 
