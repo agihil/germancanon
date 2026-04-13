@@ -30,6 +30,9 @@ Includes `data.csv`, which aggregates and harmonizes the individual files from `
 ### `documentation/`
 Provides detailed information on the data in `raw_data/`, e.g., on data collection methods, definitions and meanings of columns, and bibliographic and licensing information for all data sources.
 
+### `poster_submission_ccls26/`
+Provides additional data and code specific for the poster submission at CCLS2026.
+
 ### `notebooks/`
 Contains Jupyter notebooks with Python code for merging and cleaning the raw data and computing and analyzing canonicity scores.
 
@@ -40,7 +43,7 @@ Contains the original datasets used to reconstruct canonicity, e.g., mentions of
 
 ## 🧾 Changelog
 
-- 09.02.2026: Upload of the now folder "poster_submission_ccls26" with all additional data and code specific for the poster submission at CCLS206
+- 09.02.2026: Upload of the now folder "poster_submission_ccls26" with all additional data and code specific for the poster submission at CCLS2026
 
 ---
 
